@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.aux
+*.blg
+*.log
+*.out
+*.synctex.gz
+hce_boost_results/
+revision_results/
+neural_five_seed_results/
+five_seed_final/
+figures/
+*.pdf
+*.png
+*.svg
+*.tif
+*.tiff
